@@ -42,7 +42,7 @@ nav{
   margin-right: 5px;
   vertical-align: text-top;
   display: inline-block;
-  background-image: url(lock.png);
+  background-image: url(images/lock.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -56,10 +56,10 @@ nav{
   margin: 0 auto;
   display: block;
   text-align: center;
-  background-image: url(intuitLogo.png);
+  background-image: url(images/intuitLogo.png);
 }
 .productLogos{
-  background: url(logos.png) no-repeat;
+  background: url(images/logos.png) no-repeat;
   display: block;
   margin : 0 auto;
   height: 35px;
