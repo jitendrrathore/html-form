@@ -1,2 +1,2 @@
-## HTML Form Project
-# Intuit Account Sign Up Clone.
+# HTML Form Project
+## Intuit Account Sign Up Clone.
